@@ -1,0 +1,6 @@
+[submodule "biblioteca-compartilhada"]
+	path = biblioteca-compartilhada
+	url = https://github.com/Igor-surv/biblioteca-compartilhada.git
+[submodule "libs/biblioteca-compartilhada"]
+	path = libs/biblioteca-compartilhada
+	url = https://github.com/Igor-surv/biblioteca-compartilhada.git
